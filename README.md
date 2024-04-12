@@ -1,6 +1,3 @@
-Aqui está o ajuste dos caracteres para se encaixarem com os tópicos:
-
-```markdown
 # Notebook de Testes Estatísticos
 
 ## Este notebook contém exemplos de diferentes testes estatísticos, tanto para dados com distribuição normal quanto para dados com distribuição não normal. Os testes incluem:
@@ -42,6 +39,3 @@ Aqui está o ajuste dos caracteres para se encaixarem com os tópicos:
 
 - **Mais Grupos**
    - Kruskal Wallis para amostras não pareadas
-```
-
-Esse ajuste torna os caracteres mais consistentes e alinhados com os diferentes níveis de tópicos e itens de lista.
