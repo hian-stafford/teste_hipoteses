@@ -8,19 +8,19 @@
 
 **Pareada**
 
-1. **2 grupos**
+- **2 grupos**
    - Teste t de Student para amostras pareadas
 
-2. **Mais Grupos**
+- **Mais Grupos**
    - Teste ANOVA para amostras pareadas
 
 **Não Pareada**
 
-**2 Grupos**
-- Teste t de Student para amostras não pareadas
+-**2 Grupos**
+   - Teste t de Student para amostras não pareadas
 
-**Mais Grupos**
-- Teste ANOVA para amostras não pareadas
+-**Mais Grupos**
+   - Teste ANOVA para amostras não pareadas
 
 ## Não Normal
 
