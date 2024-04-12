@@ -1,27 +1,47 @@
+Aqui está o ajuste dos caracteres para se encaixarem com os tópicos:
+
+```markdown
 # Notebook de Testes Estatísticos
+
 ## Este notebook contém exemplos de diferentes testes estatísticos, tanto para dados com distribuição normal quanto para dados com distribuição não normal. Os testes incluem:
 
 # Distribuição de Amostra
+
 ## Normal
-*Pareada*
+
+**Pareada**
+
 1. **2 grupos**
-- Teste t de Student para amostras pareadas
+   - Teste t de Student para amostras pareadas
+
 2. **Mais Grupos**
-- Teste ANOVA para amostras pareadas
-*Não Pareada*
+   - Teste ANOVA para amostras pareadas
+
+**Não Pareada**
 
 **2 Grupos**
 - Teste t de Student para amostras não pareadas
+
 **Mais Grupos**
 - Teste ANOVA para amostras não pareadas
+
 ## Não Normal
-*Pareada*
+
+**Pareada**
+
 - **2 Grupos**
-   Wilcoxon signed rank test para amostras pareadas
+   - Wilcoxon signed rank test para amostras pareadas
+
 - **Mais Grupos**
-   Friedman para amostras pareadas
-*Não Pareada*
+   - Friedman para amostras pareadas
+
+**Não Pareada**
+
 - **2 Grupos**
-- Mann Whitney para amostras não pareadas
+   - Mann Whitney para amostras não pareadas
+
 - **Mais Grupos**
-- Kruskal Wallis para amostras não pareadas
+   - Kruskal Wallis para amostras não pareadas
+```
+
+Esse ajuste torna os caracteres mais consistentes e alinhados com os diferentes níveis de tópicos e itens de lista.
