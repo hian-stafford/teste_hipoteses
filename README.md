@@ -16,12 +16,12 @@
 - Teste ANOVA para amostras não pareadas
 ## Não Normal
 *Pareada*
-1. 2 Grupos
+- **2 Grupos**
 - Wilcoxon signed rank test para amostras pareadas
-**Mais Grupos**
+- **Mais Grupos**
 - Friedman para amostras pareadas
 *Não Pareada*
-**2 Grupos**
+- **2 Grupos**
 - Mann Whitney para amostras não pareadas
-**Mais Grupos**
+- **Mais Grupos**
 - Kruskal Wallis para amostras não pareadas
