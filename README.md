@@ -9,6 +9,7 @@
 **Mais Grupos**
 - Teste ANOVA para amostras pareadas
 *Não Pareada*
+
 **2 Grupos**
 - Teste t de Student para amostras não pareadas
 **Mais Grupos**
