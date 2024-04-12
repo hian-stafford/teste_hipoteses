@@ -16,10 +16,10 @@
 
 **Não Pareada**
 
--**2 Grupos**
+- **2 Grupos**
    - Teste t de Student para amostras não pareadas
 
--**Mais Grupos**
+- **Mais Grupos**
    - Teste ANOVA para amostras não pareadas
 
 ## Não Normal
