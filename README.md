@@ -4,9 +4,9 @@
 # Distribuição de Amostra
 ## Normal
 *Pareada*
-**2 grupos**
+1. **2 grupos**
 - Teste t de Student para amostras pareadas
-**Mais Grupos**
+2. **Mais Grupos**
 - Teste ANOVA para amostras pareadas
 *Não Pareada*
 
@@ -16,7 +16,7 @@
 - Teste ANOVA para amostras não pareadas
 ## Não Normal
 *Pareada*
-**2 Grupos**
+1. 2 Grupos
 - Wilcoxon signed rank test para amostras pareadas
 **Mais Grupos**
 - Friedman para amostras pareadas
